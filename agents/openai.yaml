@@ -1,0 +1,4 @@
+interface:
+  display_name: "Overview HTML"
+  short_description: "Create one-page HTML overviews"
+  default_prompt: "Use $overview-html to create a one-page HTML overview of this project, incident, or implementation."
